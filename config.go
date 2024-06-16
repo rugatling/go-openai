@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	openaiAPIURLv1                 = "https://api.proxyapi.ru/openai/v1"
+	openaiAPIURLv1                 = "https://api.proxyapi.ru/openai"
 	defaultEmptyMessagesLimit uint = 300
 
 	azureAPIPrefix         = "openai"
